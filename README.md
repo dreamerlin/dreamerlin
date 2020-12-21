@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a full developer for ✨ [MMAction2](https://github.com/open-mmlab/mmaction2) ✨, I'd like to make some contributions for **open-mmlab** projects and share some thoughts on my github.
+I'm a main contributor for ✨ [MMAction2](https://github.com/open-mmlab/mmaction2) ✨, I'd like to make some contributions for **open-mmlab** projects and share some thoughts on my github.
 
 - 🔭 I’m currently working on [Open-MMLab](https://openmmlab.com/)
 - 🌱 I’m currently learning How to conduct research
