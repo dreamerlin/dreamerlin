@@ -3,7 +3,7 @@
 I'm a main contributor for ✨ [MMAction2](https://github.com/open-mmlab/mmaction2) ✨ and ✨ [MMCV](https://github.com/open-mmlab/mmcv) ✨, I'd like to make some contributions for **open-mmlab** projects and share some thoughts on my github.
 
 - 🔭 I’m currently working on [Open-MMLab](https://openmmlab.com/)
-- 🌱 I’m currently learning How to conduct research
+- 🌱 I’m currently learning on efficient video understanding
 - 👯 I’m looking to collaborate on [MMAction2](https://github.com/open-mmlab/mmaction2)
 - 📫 How to reach me: <linjintao@sensetime.com>
 <!--
